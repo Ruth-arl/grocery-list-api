@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "296a262f-114d-4673-a5d8-242a6db88106",
+    "Name": "Apples",
+    "Quantity": 3,
+    "UnitPrice": 1.5
+  },
+  {
+    "Id": "6bb46d79-707a-437b-9932-7dd8f8b9cbfc",
+    "Name": "Apple",
+    "Quantity": 3,
+    "UnitPrice": 1.5
+  },
+  {
+    "Id": "a8037493-7172-4b44-a4b1-76263db52049",
+    "Name": "kk",
+    "Quantity": 2,
+    "UnitPrice": 1
+  },
+  {
+    "Id": "e690e77e-f95c-46c9-9e07-8d730b3b28ef",
+    "Name": "Fruit du dragon",
+    "Quantity": 5,
+    "UnitPrice": 1300
+  }
+]
