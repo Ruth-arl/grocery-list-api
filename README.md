@@ -114,6 +114,8 @@ Ainsi, la liste demeure disponible même après le redémarrage du serveur.
 
 ---
 
+Temps approximatif consacré au projet : 8 à 11 heures.
+
 ## Auteur
 
 Ruth Arlene Goua
